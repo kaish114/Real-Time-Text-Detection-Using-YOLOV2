@@ -4,4 +4,4 @@ This project is a sub part of my Major Project ”Signboard Translation from Ver
 
 
 # Note:
-Please let me know anyone needs dataset.
+If anyone needs dataset please let me know.
