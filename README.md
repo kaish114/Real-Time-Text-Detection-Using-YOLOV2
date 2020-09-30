@@ -5,3 +5,5 @@ This project is a sub part of my Major Project ”Signboard Translation from Ver
 
 # Note:
 If anyone needs dataset please let me know.
+
+#I am trying to implement this project in YOLOV3
